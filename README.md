@@ -39,7 +39,3 @@ Note: The existing `tokens.txt` is just for demonstration purposes.
 
 - **Programmer: Bytes128**
   - [Github](https://github.com/Bytes128)
-- **Ideas: Mr. C. Soldier**
-  - [Github](https://github.com/MrCSoldier)
-  - [YouTube](https://www.youtube.com/channel/UC_Fz47OeEP8vBwepJ1XDwXw)
-  - [Discord Server](https://discord.gg/p8Mha2N8Tv)
