@@ -1,0 +1,21 @@
+{
+  "name": "discord-token-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "gui": "node src/gui",
+    "cli": "node src/cli"
+  },
+  "author": "Bytes128",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "randexp": "^0.5.3"
+  }
+}
